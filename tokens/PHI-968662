@@ -1,1 +1,22 @@
-
+{
+    "website": "https://www.multiversxtoken.com",
+    "description": "The EGLD token is the utility token of MultiversX Token",
+    "ledgerSignature": "1234",
+    "social": {
+        "email": "egld-token@multiversx.com",
+        "blog": "https://www.multiversxtoken.com/EGLD-token-blog",
+        "twitter": "https://twitter.com/EGLD-token-twitter",
+        "whitepaper": "https://www.multiversxtoken.com/EGLD-token-whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/EGLD-token",
+        "coingecko": "https://www.coingecko.com/en/coins/EGLD-token"
+    },
+    "lockedAccounts": {
+        "egld1alice": "Team vesting",
+        "egld1bob": "Locked private sale"
+    },
+    "extraTokens": [
+        "LPTOKEN-1234",
+        "STAKED-1234"
+    ],
+    "status": "active"
+}
